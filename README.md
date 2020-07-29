@@ -1,6 +1,6 @@
 # CRUD
 
-[![crud](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPKief%2Fvscode-material-icon-theme%2Fissues%2F579&psig=AOvVaw1402m6BrmnUF804ZIRlQoA&ust=1596109829995000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKidh9Cy8uoCFQAAAAAdAAAAABAD)](https://github/MisaelDuarte/developer/README.md)
+[![crud](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPKief%2Fvscode-material-icon-theme%2Fissues%2F579&psig=AOvVaw1402m6BrmnUF804ZIRlQoA&ust=1596109829995000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKidh9Cy8uoCFQAAAAAdAAAAABAD)](https://github.com/Misaelduarte/CRUD-PHP-OO)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -29,7 +29,7 @@ Exemplo do frontend na parte client
 
 ### Conexão 
 
-Para conexão ao Banco de Dado, vai precisar do phpMyAdmin (ou outro software que trabalhe com Mysql)
+Para conexão ao banco de dados, vai precisar do phpMyAdmin (ou outro software que trabalhe com Mysql)
 
 Utilize o PDO para conexão ao banco de dados, vai em config. e altere as variáveis de conexão
 ```php
