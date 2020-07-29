@@ -1,0 +1,10 @@
+{
+    "name": "duart/developer",
+    "authors": [
+        {
+            "name": "Misael Duarte",
+            "email": "misael.winphp@gmail.com"
+        }
+    ],
+    "require": {}
+}
