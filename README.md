@@ -1,6 +1,6 @@
 # CRUD
 
-[![crud](./_CRUD/assets/images/image-crud.gif)](https://github.com/Misaelduarte/CRUD-PHP-OO)
+[![crud](https://miro.medium.com/max/768/1*gjA78w2_Q8lSNZAnTMScqA.png)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
